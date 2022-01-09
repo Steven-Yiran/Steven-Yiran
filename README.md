@@ -1,4 +1,4 @@
-Hi, I'm Yiran Shi (Steven), Junior @ Middlebury College. Reach me: yirans at middlebury edu
+Hi, I'm Yiran Shi (Steven), Junior 🎓 @ Middlebury College. Reach me: yirans at middlebury dot edu
 
 <!---
 Steven-Yiran/Steven-Yiran is a special repository because its `README.md` (this file) appears on your GitHub profile.
