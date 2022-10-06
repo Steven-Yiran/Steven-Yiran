@@ -4,7 +4,7 @@ Senior at Middlebury College. Research assistant in bioinformatics. I am interes
 
 ### I am currently learning
 
-Distributed Systems, Golang, Graph Neural Networks
+Backend Development, Probability & Statistics
 
 <!---
 Steven-Yiran/Steven-Yiran is a special repository because its `README.md` (this file) appears on your GitHub profile.
