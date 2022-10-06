@@ -1,10 +1,14 @@
 ## Hi, I'm Yiran Shi (Steven) 
 
-Senior at Middlebury College. Research assistant in bioinformatics. I am interested in Machine Learning and Computer Systems. The ultimate goal would be to make positive social impact through technology!
+Senior at Middlebury College. Previous research assistant in bioinformatics and full-stack web developer. I am interested in Machine Learning and Computer Systems. I want to make a positive impact with technology!
 
 ### I am currently learning
 
 Backend Development, Probability & Statistics
+
+### I am currently working on
+
+Open source development: one step at a time. 
 
 <!---
 Steven-Yiran/Steven-Yiran is a special repository because its `README.md` (this file) appears on your GitHub profile.
