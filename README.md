@@ -4,7 +4,7 @@ Senior at Middlebury College. Previous research assistant in bioinformatics and 
 
 ### I am currently learning
 
-Backend Development, Probability & Statistics
+System programming
 
 ### I am currently working on
 
