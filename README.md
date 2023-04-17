@@ -4,11 +4,11 @@ Senior at Middlebury College. Previous research assistant in bioinformatics and 
 
 ### I am currently learning
 
-System programming
+Machine Learning Systems
 
 ### I am currently working on
 
-Open source development: one step at a time. 
+Open source development
 
 <!---
 Steven-Yiran/Steven-Yiran is a special repository because its `README.md` (this file) appears on your GitHub profile.
