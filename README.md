@@ -1,4 +1,4 @@
-## Hi, I'm Yiran Shi (Steven) 
+## Hi, I'm Yiran(Steven) 👋
 
 I am interested in Machine Learning and Computer Systems. I want to make a positive impact with technology!
 
