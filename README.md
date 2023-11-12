@@ -1,6 +1,6 @@
 ## Hi, I'm Yiran(Steven) 👋
 
-I am interested in Computer Systems and their application in Machine Learning.
+I am interested in Computer Systems and Machine Learning.
 
 - 🐻 I am studying systems and machine learning as a Master's student at Brown.
 - 🧼 I am actively contributing to CleanLab, a tool for improving machine learning datasets.
