@@ -1,6 +1,6 @@
 ## Hi, I'm Yiran(Steven) 👋
 
-I am a software engineer interested in building safe AI systems.
+I am a software engineer interested in building database management systems and AI safety tools.
 
 - 🐻 I am studying computer systems and machine learning as a Master's student at Brown.
 - 🏠 I am leading the backend development effort for [CozyLink](https://cozy-link.com/), an all-in-one solution for student housing.
