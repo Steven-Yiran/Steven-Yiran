@@ -1,8 +1,9 @@
 ## Hi, I'm Yiran(Steven) 👋
 
-I am a software engineer interested in genomics and AI safety.
+I am a software engineer interested in AI for health.
 
 - 🐻 I am studying AI and comp bio at Brown University.
+- 🌲 I am building a healthy life-style app.
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yiran)](https://github.com/steven-yiran/github-readme-stats)
 
