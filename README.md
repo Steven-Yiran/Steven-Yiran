@@ -3,7 +3,7 @@
 I am a software engineer interested in AI for health. I plan to tackle this challenge through two fronts: lifestyle improvements and personalized medicine. 
 
 - 🐻 I am studying AI and comp bio at Brown University.
-- 🌲 I am building a healthy life-style app.
+- 🌲 I am building a nutrition scanner for groceries products.
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yiran)](https://github.com/steven-yiran/github-readme-stats)
 
