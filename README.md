@@ -1,6 +1,6 @@
 ## Hi, I'm Yiran(Steven) 👋
 
-I am a software engineer interested in AI for health. I plan to tackle this challenge through two fronts: lifestyle improvements and personalized medicine. 
+I am a software engineer interested in AI for health. I plan to tackle this challenge in two areas - lifestyle improvements and personalized medicine - through user centered design and trustworthy drug discovery AI.
 
 - 🐻 I am studying AI and comp bio at Brown University.
 - 🌲 I am building a nutrition scanner for groceries products.
