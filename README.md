@@ -1,9 +1,6 @@
 ## Hi, I'm Yiran(Steven) 👋
 
-I am a software engineer interested in AI for health. I plan to tackle this challenge in two areas - lifestyle improvements and personalized medicine - through user centered design and trustworthy drug discovery AI.
-
-- 🐻 I am studying AI and comp bio at Brown University.
-- 🌲 I am building a nutrition scanner for groceries products.
+AI is going to be used in critical domains such as medical diagnosis. I want to be a small force in making sure future AI systems is safe for people.
 
 [![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=steven-yiran)](https://github.com/steven-yiran/github-readme-stats)
 
